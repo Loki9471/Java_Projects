@@ -1,4 +1,4 @@
-package com.PracticeMode;
+
 
 import java.util.Scanner;
 
